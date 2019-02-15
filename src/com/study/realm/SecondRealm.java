@@ -6,7 +6,7 @@ import org.apache.shiro.realm.AuthenticatingRealm;
 import org.apache.shiro.util.ByteSource;
 
 /**
- * @Author 左想
+ * @Author zx
  * 测试多Realm环境
  */
 public class SecondRealm extends AuthenticatingRealm {
