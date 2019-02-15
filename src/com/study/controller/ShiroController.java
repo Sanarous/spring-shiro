@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * Shiro控制器
- * @Author 左想
+ * @Author zx
  */
 @Controller
 @RequestMapping("/shiro")
