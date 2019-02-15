@@ -12,7 +12,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @Author 左想
+ * @Author zx
  * 认证和授权只需要继承AuthorizingRealm即可
  * Realm相当于数据源dataSource，在这里要从数据库中获取用户权限数据
  */
