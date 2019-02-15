@@ -8,7 +8,7 @@ import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 
 /**
- * @Author 左想
+ * @Author zx
  * 测试授权方法
  */
 public class TestRealm extends AuthorizingRealm {
