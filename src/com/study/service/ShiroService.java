@@ -4,7 +4,7 @@ import org.apache.shiro.authz.annotation.RequiresRoles;
 import org.springframework.stereotype.Service;
 
 /**
- * @Author 左想
+ * @Author zx
  * Shiro的业务逻辑层
  */
 @Service
